@@ -1,8 +1,8 @@
-# flutter_webapp
+# flutter_webapp_demo
+
+* 实现原理详见：https://juejin.cn/post/7143873350484361247
 
 Flutter Web App 示例
-
-原理详见：https://juejin.cn/post/7143873350484361247
 
 ts_to_dart_facade 使用 Demo
 
