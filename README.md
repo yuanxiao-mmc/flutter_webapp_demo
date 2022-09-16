@@ -2,6 +2,8 @@
 
 Flutter Web App 示例
 
+原理详见：https://juejin.cn/post/7143873350484361247
+
 ts_to_dart_facade 使用 Demo
 
 ## Getting Started
@@ -16,7 +18,7 @@ ts_to_dart_facade 使用 Demo
 
 #### TS To Flutter
 
-首次 / 每次修改 js_plugins 后执行 `node_tools/ts_dart_gen.sh`
+首次 / 每次修改 js_plugins 后执行 `tools/ts_dart_gen.sh`
 
 #### Flutter 项目运行
 
