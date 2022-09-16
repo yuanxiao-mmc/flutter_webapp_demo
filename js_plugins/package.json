@@ -1,0 +1,20 @@
+{
+  "name": "js_plugins",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:debug": "vite build --emptyOutDir"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.17",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-html": "^3.2.0"
+  },
+  "dependencies": {
+    "is-buffer": "^2.0.5"
+  }
+}

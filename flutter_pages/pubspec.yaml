@@ -1,0 +1,33 @@
+name: flutter_webapp
+description: Flutter Web App （ts_to_dart_facade）示例
+
+publish_to: "none"
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ^3.0.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  go_router: ^4.3.0 # 路由
+  flutter_easyloading: ^3.0.5 # 简洁的 loading、toast，后续替换成统一的 < TODO
+  js: ^0.6.4 # js 与 web 交互
+  json_annotation: ^4.6.0 # JSON 生成模型
+  flutter_riverpod: ^1.0.4 # 状态管理
+  cached_network_image: ^3.2.1 # 网络图片缓存组件
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner:
+  json_serializable:
+  shelf_proxy: # 跨域代理
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,19 @@
+{
+  "name": "gaoding_webapp",
+  "short_name": "gaoding_webapp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2254F4",
+  "keywords": "稿定设计,在线设计,海报设计,设计素材,设计网站",
+  "description": "稿定设计，让设计更简单。稿定设计是一个简单有趣的图片视频设计平台，提供大量免费设计素材和免费设计和视频模板、在线抠图和电商海报设计模板等，一键搞定设计需求。",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
